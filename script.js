@@ -5,6 +5,7 @@ $(function(){
 			var classname = '.';
 			classname += idname;
 			$('#hansoku div:not(classname)').css('display','none');
+			$('#hansoku img:not(classname)').css('display','none');
 			$(classname).fadeIn(200);
 		});
 	});
