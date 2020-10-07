@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>soturon</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body>
+  <div id="wrapper">
+    <ul id="point">
+      <li id="KeyAll">全一覧</li>
+      <li id="KeyOne">片手でサイン</li>
+      <li id="KeuTow">両手でサイン</li>
+
+    </ul>
+    <div id="hansoku">
+      <img class="one all" src="nokkuon.gif">
+      <div class="one all">ノックオンまたはインテンショナルノックオン</div><!-- ntt、九州　公式-->
+      <div class="one all">アンプレアブル（ラック、タックル）</div><!-- 公式-->
+      <div class="one all">アンプレアブル（モール）</div><!-- 公式-->
+      <div class="one all">スクラムホイール</div><!-- ntt　公式-->
+      <div class="one all">ノットストレート（ラインアウト）</div><!-- 九州　公式-->
+      <div class="one all">パイルアップ（インゴール）</div><!-- 公式-->
+      <div class="one all">フットアップ</div><!-- 公式-->
+      <div class="one all">ノットロールアウェイ</div><!-- ntt、九州　公式-->
+      <div class="one all">オーバーザットップ</div><!-- ntt、九州　公式-->
+      <div class="one all">ダイブイン</div><!-- 九州　公式-->
+      <div class="one all">オフサイド</div><!-- ntt、九州　公式-->
+      <div class="one all">ノットストレート</div><!-- ntt-->
+      <div class="one all">オブザゲート</div><!-- 九州-->
+      <div class="one all">オフサイド（ラック、モール）</div><!-- ntt、九州　公式-->
+      <div class="one all">フットアップ</div><!-- ntt-->
+      <div class="one all">ハンド</div><!-- ntt　公式-->
+      <div class="one all">ハイタックル</div><!-- ntt、九州　公式-->
+      <div class="one all">コラプシング（スクラム）</div><!-- ntt-->
+      <div class="one all">フロントローの引き倒し</div><!-- 公式-->
+      <div class="one all">バージング</div>
+      <div class="one all">ラインアウトでの寄りかかり</div><!-- 公式-->
+      <div class="one all">ラインアウトで相手を押す（バージング？）</div><!-- 公式-->
+      <div class="one all">スタンピング</div><!-- 公式-->
+      <div class="tow all">スローフォワード</div><!-- ntt、九州　公式-->
+      <div class="tow all">モールアンプレアブル</div>
+      <div class="tow all">ノットストレート（スクラム）</div>
+      <div class="tow all">オブストラクション</div><!-- ntt、九州-->
+      <div class="tow all">ノットリリースザボール</div><!-- ntt、九州　公式-->
+      <div class="tow all">スクラムコラプシング</div>
+      <div class="tow all">ノーバインド</div><!-- 九州　公式-->
+      <div class="tow all">コラプシング（ラック、モール）</div>
+      <div class="tow all">ノット１ｍ</div><!-- ntt、九州　公式-->
+      <div class="tow all">ノット５ｍまたはノット10ｍ</div><!-- ntt-->
+      <div class="tow all">アクシンデンタルオフサイド</div><!-- ntt-->
+      <div class="tow all">ノットストレート（スクラム）</div><!-- ntt-->
+      <div class="tow all">ノット10ｍバック</div><!-- ntt、九州　公式-->
+      <div class="tow all">レイトチャージ</div><!-- ntt-->
+      <div class="tow all">コラプシング（ラック、モール）</div><!-- 九州　公式-->
+      <div class="tow all">スピアタックル（危険なタックル）</div><!-- 九州-->
+      <div class="tow all">パンチング</div><!-- 九州　公式-->
+      <div class="tow all">リフティング</div><!-- 公式-->
+      <div class="tow all">タックルホールディング</div><!-- 公式-->
+
+    </div>
+
+  </div>
+  </body>
+</html>
