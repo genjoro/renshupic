@@ -38,3 +38,13 @@ body{
 .tow{
   background-color: #00f
 }
+
+@media (max-width:670px) {
+  .all{
+    width:16mm;
+    height:16mm;
+    margin:10mm;
+    color: #fff;
+    float:left;
+  }
+}
