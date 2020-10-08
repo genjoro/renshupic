@@ -41,9 +41,9 @@ body{
 
 @media (max-width:670px) {
   .all{
-    width:16mm;
-    height:16mm;
-    margin:10mm;
+    width:150px;
+    height:150px;
+    margin:20px;
     color: #fff;
     float:left;
   }
