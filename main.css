@@ -40,12 +40,12 @@ body{
   background-color: #00f
 }
 
-@media (max-width:670px) {
+/*@media (max-width:670px) {
   .all{
     width:150px;
     height:150px;
     margin:20px;
     color: #fff;
     float:left;
-  }
+  }*/
 }
